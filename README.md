@@ -1,2 +1,2 @@
 # hello-world
-GitHub の最初のリポジトリ666
+GitHub の最初のリポジトリ6667
